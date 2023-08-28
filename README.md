@@ -4,11 +4,6 @@ Shop-Management-System
 
 Shop Management System implemented in __Java__ and __MySQL__
 
-_Supervisor:_
-
-&nbsp;&nbsp;&nbsp;&nbsp;Mohaimen-Bin-Noor,<br>
-&nbsp;&nbsp;&nbsp;&nbsp;Assistant Professor, Department of Computer Science,<br>
-&nbsp;&nbsp;&nbsp;&nbsp;Assistant ProfessorAmerican International University-Bangladesh
 
 **Features:**
 * Login for Manager, Employee and Customer
